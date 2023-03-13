@@ -64,7 +64,7 @@ void setup() {
 
 
 void loop() {
-  if((wifiMulti.run() == WL_CONNECTED)) {
+  if((WifiMulti.run() == WL_CONNECTED)) {
     HTTPClient http;
     Serial.println("HTTP Begin");
     http.begin("http://worldtimeapi.org/api/timezone/America/New_York");
