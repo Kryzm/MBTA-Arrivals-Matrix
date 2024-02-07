@@ -1,0 +1,265 @@
+Airport - Blue Line - Bowdoin --- place-aport
+Airport - Blue Line - Wonderland --- place-aport
+Alewife - Red Line --- place-alfcl
+Allston Street - Green Line - (B) Boston College --- place-alsgr
+Allston Street - Green Line - Park Street & North --- place-alsgr
+Amory Street - Green Line - (B) Boston College --- place-amory
+Amory Street - Green Line - Park Street & North --- place-amory
+Andrew - Red Line - Alewife --- place-andrw
+Andrew - Red Line - Ashmont/Braintree --- place-andrw
+Aquarium - Blue Line - Bowdoin --- place-aqucl
+Aquarium - Blue Line - Wonderland --- place-aqucl
+Arlington - Green Line - Copley & West --- place-armnl
+Arlington - Green Line - Park Street & North --- place-armnl
+Ashmont - Mattapan Trolley --- place-asmnl
+Ashmont - Red Line - Alewife --- place-asmnl
+Ashmont - Red Line - Exit Only --- place-asmnl
+Assembly - Orange Line - Forest Hills --- place-astao
+Assembly - Orange Line - Oak Grove --- place-astao
+Babcock Street - Green Line - (B) Boston College --- place-babck
+Babcock Street - Green Line - Park Street & North --- place-babck
+Back Bay - Orange Line - Forest Hills --- place-bbsta
+Back Bay - Orange Line - Oak Grove --- place-bbsta
+Back of the Hill - Green Line - (E) Heath Street --- place-bckhl
+Back of the Hill - Green Line - Park Street & North --- place-bckhl
+Ball Square - Green Line - (E) Medford/Tufts --- place-balsq
+Ball Square - Green Line - Copley & West --- place-balsq
+Beachmont - Blue Line - Bowdoin --- place-bmmnl
+Beachmont - Blue Line - Wonderland --- place-bmmnl
+Beaconsfield - Green Line - (D) Riverside --- place-bcnfd
+Beaconsfield - Green Line - Park Street & North --- place-bcnfd
+Blandford Street - Green Line - (B) Boston College --- place-bland
+Blandford Street - Green Line - Park Street & North --- place-bland
+Boston College - Green Line - Exit Only --- place-lake
+Boston College - Green Line - Park Street & North --- place-lake
+Boston University Central - Green Line - (B) Boston College --- place-bucen
+Boston University Central - Green Line - Park Street & North --- place-bucen
+Boston University East - Green Line - (B) Boston College --- place-buest
+Boston University East - Green Line - Park Street & North --- place-buest
+Bowdoin - Blue Line - Exit Only --- place-bomnl
+Bowdoin - Blue Line - Wonderland --- place-bomnl
+Boylston - Green Line - Copley & West --- place-boyls
+Boylston - Green Line - Park Street & North --- place-boyls
+Braintree - Red Line --- place-brntn
+Brandon Hall - Green Line - (C) Cleveland Circle --- place-bndhl
+Brandon Hall - Green Line - Park Street & North --- place-bndhl
+Brigham Circle - Green Line - (E) Heath Street --- place-brmnl
+Brigham Circle - Green Line - Park Street & North --- place-brmnl
+Broadway - Red Line - Alewife --- place-brdwy
+Broadway - Red Line - Ashmont/Braintree --- place-brdwy
+Brookline Hills - Green Line - (D) Riverside --- place-brkhl
+Brookline Hills - Green Line - Park Street & North --- place-brkhl
+Brookline Village - Green Line - (D) Riverside --- place-bvmnl
+Brookline Village - Green Line - Park Street & North --- place-bvmnl
+Butler - Mattapan Trolley - Ashmont --- place-butlr
+Butler - Mattapan Trolley - Mattapan --- place-butlr
+Capen Street - Mattapan Trolley - Ashmont --- place-capst
+Capen Street - Mattapan Trolley - Mattapan --- place-capst
+Cedar Grove - Mattapan Trolley - Ashmont --- place-cedgr
+Cedar Grove - Mattapan Trolley - Mattapan --- place-cedgr
+Central - Red Line - Alewife --- place-cntsq
+Central - Red Line - Ashmont/Braintree --- place-cntsq
+Central Avenue - Mattapan Trolley - Ashmont --- place-cenav
+Central Avenue - Mattapan Trolley - Mattapan --- place-cenav
+Charles/MGH - Red Line - Alewife --- place-chmnl
+Charles/MGH - Red Line - Ashmont/Braintree --- place-chmnl
+Chestnut Hill - Green Line - (D) Riverside --- place-chhil
+Chestnut Hill - Green Line - Park Street & North --- place-chhil
+Chestnut Hill Avenue - Green Line - (B) Boston College --- place-chill
+Chestnut Hill Avenue - Green Line - Park Street & North --- place-chill
+Chinatown - Orange Line - Forest Hills --- place-chncl
+Chinatown - Orange Line - Oak Grove --- place-chncl
+Chiswick Road - Green Line - (B) Boston College --- place-chswk
+Chiswick Road - Green Line - Park Street & North --- place-chswk
+Cleveland Circle - Green Line - Exit Only --- place-clmnl
+Cleveland Circle - Green Line - Park Street & North --- place-clmnl
+Community College - Orange Line - Forest Hills --- place-ccmnl
+Community College - Orange Line - Oak Grove --- place-ccmnl
+Coolidge Corner - Green Line - (C) Cleveland Circle --- place-cool
+Coolidge Corner - Green Line - Park Street & North --- place-cool
+Copley - Green Line - Kenmore & West, (E) Heath Street --- place-coecl
+Copley - Green Line - Park Street & North --- place-coecl
+Davis - Red Line - Alewife --- place-davis
+Davis - Red Line - Ashmont/Braintree --- place-davis
+Dean Road - Green Line - (C) Cleveland Circle --- place-denrd
+Dean Road - Green Line - Park Street & North --- place-denrd
+Downtown Crossing - Orange Line - Forest Hills --- place-dwnxg
+Downtown Crossing - Orange Line - Oak Grove --- place-dwnxg
+Downtown Crossing - Red Line - Alewife --- place-dwnxg
+Downtown Crossing - Red Line - Ashmont/Braintree --- place-dwnxg
+East Somerville - Green Line - (E) Medford/Tufts --- place-esomr
+East Somerville - Green Line - Copley & West --- place-esomr
+Eliot - Green Line - (D) Riverside --- place-eliot
+Eliot - Green Line - Park Street & North --- place-eliot
+Englewood Avenue - Green Line - (C) Cleveland Circle --- place-engav
+Englewood Avenue - Green Line - Park Street & North --- place-engav
+Fairbanks Street - Green Line - (C) Cleveland Circle --- place-fbkst
+Fairbanks Street - Green Line - Park Street & North --- place-fbkst
+Fenway - Green Line - (D) Riverside --- place-fenwy
+Fenway - Green Line - Park Street & North --- place-fenwy
+Fenwood Road - Green Line - (E) Heath Street --- place-fenwd
+Fenwood Road - Green Line - Park Street & North --- place-fenwd
+Fields Corner - Red Line - Alewife --- place-fldcr
+Fields Corner - Red Line - Ashmont --- place-fldcr
+Forest Hills - Orange Line --- place-forhl
+Gilman Square - Green Line - (E) Medford/Tufts --- place-gilmn
+Gilman Square - Green Line - Copley & West --- place-gilmn
+Government Center - Blue Line - Bowdoin --- place-gover
+Government Center - Blue Line - Wonderland --- place-gover
+Government Center - Green Line - Copley & West --- place-gover
+Government Center - Green Line - North Station & North --- place-gover
+Green Street - Orange Line - Forest Hills --- place-grnst
+Green Street - Orange Line - Oak Grove --- place-grnst
+Griggs Street - Green Line - (B) Boston College --- place-grigg
+Griggs Street - Green Line - Park Street & North --- place-grigg
+Harvard - Red Line - Alewife --- place-harsq
+Harvard - Red Line - Ashmont/Braintree --- place-harsq
+Harvard Avenue - Green Line - (B) Boston College --- place-harvd
+Harvard Avenue - Green Line - Park Street & North --- place-harvd
+Hawes Street - Green Line - (C) Cleveland Circle --- place-hwsst
+Hawes Street - Green Line - Park Street & North --- place-hwsst
+Haymarket - Green Line - Copley & West --- place-haecl
+Haymarket - Green Line - North Station & North --- place-haecl
+Haymarket - Orange Line - Forest Hills --- place-haecl
+Haymarket - Orange Line - Oak Grove --- place-haecl
+Heath Street - Green Line --- place-hsmnl
+Hynes Convention Center - Green Line - Kenmore & West --- place-hymnl
+Hynes Convention Center - Green Line - Park Street & North --- place-hymnl
+JFK/UMass - Red Line - Alewife (from Ashmont) --- place-jfk
+JFK/UMass - Red Line - Alewife (from Braintree) --- place-jfk
+JFK/UMass - Red Line - Ashmont --- place-jfk
+JFK/UMass - Red Line - Braintree --- place-jfk
+Jackson Square - Orange Line - Forest Hills --- place-jaksn
+Jackson Square - Orange Line - Oak Grove --- place-jaksn
+Kendall/MIT - Red Line - Alewife --- place-knncl
+Kendall/MIT - Red Line - Ashmont/Braintree --- place-knncl
+Kenmore - Green Line - (B) Boston College --- place-kencl
+Kenmore - Green Line - (C) Cleveland Circle, (D) Riverside --- place-kencl
+Kenmore - Green Line - Park Street & North --- place-kencl
+Kenmore - Green Line - Park Street & North --- place-kencl
+Kent Street - Green Line - (C) Cleveland Circle --- place-kntst
+Kent Street - Green Line - Park Street & North --- place-kntst
+Lechmere - Green Line - (D) Union Square, (E) Medford/Tufts --- place-lech
+Lechmere - Green Line - Copley & West --- place-lech
+Longwood - Green Line - (D) Riverside --- place-longw
+Longwood - Green Line - Park Street & North --- place-longw
+Longwood Medical Area - Green Line - (E) Heath Street --- place-lngmd
+Longwood Medical Area - Green Line - Park Street & North --- place-lngmd
+Magoun Square - Green Line - (E) Medford/Tufts --- place-mgngl
+Magoun Square - Green Line - Copley & West --- place-mgngl
+Malden Center - Orange Line - Forest Hills --- place-mlmnl
+Malden Center - Orange Line - Oak Grove --- place-mlmnl
+Massachusetts Avenue - Orange Line - Forest Hills --- place-masta
+Massachusetts Avenue - Orange Line - Oak Grove --- place-masta
+Mattapan - Mattapan Trolley - Ashmont --- place-matt
+Mattapan - Mattapan Trolley - Exit Only --- place-matt
+Maverick - Blue Line - Bowdoin --- place-mvbcl
+Maverick - Blue Line - Wonderland --- place-mvbcl
+Medford/Tufts - Green Line - (E) Medford/Tufts --- place-mdftf
+Medford/Tufts - Green Line - Copley & West --- place-mdftf
+Milton - Mattapan Trolley - Ashmont --- place-miltt
+Milton - Mattapan Trolley - Mattapan --- place-miltt
+Mission Park - Green Line - (E) Heath Street --- place-mispk
+Mission Park - Green Line - Park Street & North --- place-mispk
+Museum of Fine Arts - Green Line - (E) Heath Street --- place-mfa
+Museum of Fine Arts - Green Line - Park Street & North --- place-mfa
+Newton Centre - Green Line - (D) Riverside --- place-newto
+Newton Centre - Green Line - Park Street & North --- place-newto
+Newton Highlands - Green Line - (D) Riverside --- place-newtn
+Newton Highlands - Green Line - Park Street & North --- place-newtn
+North Quincy - Red Line - Alewife --- place-nqncy
+North Quincy - Red Line - Braintree --- place-nqncy
+North Station - Green Line - Copley & West --- place-north
+North Station - Green Line - Lechmere & North --- place-north
+North Station - Orange Line - Forest Hills --- place-north
+North Station - Orange Line - Oak Grove --- place-north
+Northeastern University - Green Line - (E) Heath Street --- place-nuniv
+Northeastern University - Green Line - Park Street & North --- place-nuniv
+Oak Grove - Orange Line --- place-ogmnl
+Orient Heights - Blue Line - Bowdoin --- place-orhte
+Orient Heights - Blue Line - Wonderland --- place-orhte
+Packard's Corner - Green Line - (B) Boston College --- place-brico
+Packard's Corner - Green Line - Park Street & North --- place-brico
+Park Street - Green Line - (B) Boston College --- place-pktrm
+Park Street - Green Line - (C) Cleveland Circle --- place-pktrm
+Park Street - Green Line - (D) Riverside --- place-pktrm
+Park Street - Green Line - (E) Heath Street --- place-pktrm
+Park Street - Green Line - Government Center & North --- place-pktrm
+Park Street - Red Line - Alewife --- place-pktrm
+Park Street - Red Line - Ashmont/Braintree --- place-pktrm
+Porter - Red Line - Alewife --- place-portr
+Porter - Red Line - Ashmont/Braintree --- place-portr
+Prudential - Green Line - (E) Heath Street --- place-prmnl
+Prudential - Green Line - Park Street & North --- place-prmnl
+Quincy Adams - Red Line - Alewife --- place-qamnl
+Quincy Adams - Red Line - Braintree --- place-qamnl
+Quincy Center - Red Line - Alewife --- place-qnctr
+Quincy Center - Red Line - Braintree --- place-qnctr
+Reservoir - Green Line - (D) Riverside --- place-rsmnl
+Reservoir - Green Line - Park Street & North --- place-rsmnl
+Revere Beach - Blue Line - Bowdoin --- place-rbmnl
+Revere Beach - Blue Line - Wonderland --- place-rbmnl
+Riverside - Green Line - Park Street & North --- place-river
+Riverside - Green Line - Park Street & North --- place-river
+Riverway - Green Line - (E) Heath Street --- place-rvrwy
+Riverway - Green Line - Park Street & North --- place-rvrwy
+Roxbury Crossing - Orange Line - Forest Hills --- place-rcmnl
+Roxbury Crossing - Orange Line - Oak Grove --- place-rcmnl
+Ruggles - Orange Line - Forest Hills --- place-rugg
+Ruggles - Orange Line - Oak Grove --- place-rugg
+Saint Mary's Street - Green Line - (C) Cleveland Circle --- place-smary
+Saint Mary's Street - Green Line - Park Street & North --- place-smary
+Saint Paul Street - Green Line - (C) Cleveland Circle --- place-stpul
+Saint Paul Street - Green Line - Park Street & North --- place-stpul
+Savin Hill - Red Line - Alewife --- place-shmnl
+Savin Hill - Red Line - Ashmont --- place-shmnl
+Science Park/West End - Green Line - Copley & West --- place-spmnl
+Science Park/West End - Green Line - Lechmere & North --- place-spmnl
+Shawmut - Red Line - Alewife --- place-smmnl
+Shawmut - Red Line - Ashmont --- place-smmnl
+South Station - Red Line - Alewife --- place-sstat
+South Station - Red Line - Ashmont/Braintree --- place-sstat
+South Street - Green Line - (B) Boston College --- place-sougr
+South Street - Green Line - Park Street & North --- place-sougr
+State - Blue Line - Bowdoin --- place-state
+State - Blue Line - Wonderland --- place-state
+State - Orange Line - Forest Hills --- place-state
+State - Orange Line - Oak Grove --- place-state
+Stony Brook - Orange Line - Forest Hills --- place-sbmnl
+Stony Brook - Orange Line - Oak Grove --- place-sbmnl
+Suffolk Downs - Blue Line - Bowdoin --- place-sdmnl
+Suffolk Downs - Blue Line - Wonderland --- place-sdmnl
+Sullivan Square - Orange Line - Forest Hills --- place-sull
+Sullivan Square - Orange Line - Oak Grove --- place-sull
+Summit Avenue - Green Line - (C) Cleveland Circle --- place-sumav
+Summit Avenue - Green Line - Park Street & North --- place-sumav
+Sutherland Road - Green Line - (B) Boston College --- place-sthld
+Sutherland Road - Green Line - Park Street & North --- place-sthld
+Symphony - Green Line - (E) Heath Street --- place-symcl
+Symphony - Green Line - Park Street & North --- place-symcl
+Tappan Street - Green Line - (C) Cleveland Circle --- place-tapst
+Tappan Street - Green Line - Park Street & North --- place-tapst
+Tufts Medical Center - Orange Line - Forest Hills --- place-tumnl
+Tufts Medical Center - Orange Line - Oak Grove --- place-tumnl
+Union Square - Green Line - Copley & West --- place-unsqu
+Union Square - Green Line - Copley & West --- place-unsqu
+Valley Road - Mattapan Trolley - Ashmont --- place-valrd
+Valley Road - Mattapan Trolley - Mattapan --- place-valrd
+Waban - Green Line - (D) Riverside --- place-waban
+Waban - Green Line - Park Street & North --- place-waban
+Warren Street - Green Line - (B) Boston College --- place-wrnst
+Warren Street - Green Line - Park Street & North --- place-wrnst
+Washington Square - Green Line - (C) Cleveland Circle --- place-bcnwa
+Washington Square - Green Line - Park Street & North --- place-bcnwa
+Washington Street - Green Line - (B) Boston College --- place-wascm
+Washington Street - Green Line - Park Street & North --- place-wascm
+Wellington - Orange Line - Forest Hills --- place-welln
+Wellington - Orange Line - Oak Grove --- place-welln
+Wollaston - Red Line - Alewife --- place-wlsta
+Wollaston - Red Line - Braintree --- place-wlsta
+Wonderland - Blue Line - Bowdoin --- place-wondl
+Wonderland - Blue Line - Exit Only --- place-wondl
+Wood Island - Blue Line - Bowdoin --- place-wimnl
+Wood Island - Blue Line - Wonderland --- place-wimnl
+Woodland - Green Line - (D) Riverside --- place-woodl
+Woodland - Green Line - Park Street & North --- place-woodl
